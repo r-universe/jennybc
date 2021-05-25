@@ -1,0 +1,14 @@
+[
+  {
+    "package": "gapminder",
+    "oncran": true
+  },
+  {
+    "package": "googlesheets",
+    "oncran": true
+  },
+  {
+    "package": "repurrrsive",
+    "oncran": true
+  }
+]
