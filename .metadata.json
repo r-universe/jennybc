@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "googlesheets",
-    "oncran": true
+    "package": "googlesheets"
   },
   {
     "package": "repurrrsive",
