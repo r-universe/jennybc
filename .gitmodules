@@ -8,11 +8,6 @@
 	url = https://github.com/jennybc/gapminder
 	shallow = true
 	registered = true
-[submodule "googlesheets"]
-	path = googlesheets
-	url = https://github.com/jennybc/googlesheets
-	shallow = true
-	registered = true
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/jennybc/repurrrsive
