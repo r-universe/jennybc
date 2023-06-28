@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gapminder"]
 	path = gapminder
 	url = https://github.com/jennybc/gapminder
-	shallow = true
-	registered = true
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/jennybc/repurrrsive
-	shallow = true
-	registered = true
